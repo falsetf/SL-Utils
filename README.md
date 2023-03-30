@@ -1,6 +1,6 @@
 # SL-Utils
 
-This program is meant to be a Quality of Life utility for Shatterline. Although the titles are self-explanitory, I will explain the three separate scripts here.
+This program is meant to be a Quality of Life utility for Shatterline. Although the titles are self-explanatory, I will explain the three separate scripts here.
 
 ## bhop.py
 This script is coded to be a bunnyhop script for Shatterline. If you hold down space, it spams the spacebar for you.
