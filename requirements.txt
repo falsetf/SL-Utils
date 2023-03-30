@@ -1,0 +1,5 @@
+
+keyboard~=0.13.5
+pystray~=0.19.4
+Pillow==9.4.0
+PyAutoGUI~=0.9.53
