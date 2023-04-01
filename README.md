@@ -24,6 +24,7 @@ This script is meant to be used as an AFK tool in expedition or co-op. It is bes
 
 ### Basic Requirements:
 You will need [Python](https://www.python.org/downloads/) to allow the program to function at all.
+
 You will need [Git](https://git-scm.com/downloads) to clone the repo.
 
 Once Python is installed, navigate to a folder you would like this script to be in, then clone the repo with:
