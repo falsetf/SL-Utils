@@ -19,8 +19,13 @@ def orbit_ult():
     keyboard.release('shift')
 
 
+def on_key_event(event):
+    if event.event_type == 'down' and event.name == 'alt':
+        orbit_ult()
+
+
 def hotkey_listener():
-    keyboard.add_hotkey('left alt', orbit_ult)
+    keyboard.hook(on_key_event)
     keyboard.wait()
 
 
