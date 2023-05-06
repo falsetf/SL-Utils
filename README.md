@@ -3,6 +3,8 @@
 This program is meant to be a Quality of Life utility for Shatterline. Although the titles are self-explanatory, I will explain the three separate scripts here.
 
 ## bhop.py
+#### I would recommend simply using the [AutoHotKey version of this script](https://github.com/falsetf/Shatterline_AHK_BHop). It is less bloated, and much simpler. It seems to be less broken, but the issue stated below can still occasionally happen.
+
 This script is coded to be a bunnyhop script for Shatterline. If you hold down space, it spams the spacebar for you.
 To use this script, you will have to know the basics to b-hopping. PierreCHT has a useful video that teaches the basics of [bhopping](https://www.youtube.com/watch?v=oo3wmAbwYig&t=49s).
 
